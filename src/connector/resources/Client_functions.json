@@ -1,0 +1,1 @@
+{"chuhaashanan/connector:0.1.0:Client" : [{"function":{"name":"getName","requiredParams":[{"ide":"string"}],"returnType":"string"}},{"function":{"name":"storeInfo","requiredParams":[{"id":"string"},{"name":"string"}],"returnType":"()"}},{"function":{"name":"updateName","requiredParams":[{"id":"string"},{"name":"string"}],"returnType":"()"}}]}
